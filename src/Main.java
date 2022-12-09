@@ -62,7 +62,7 @@ public class Main {
     } // таск 3
 
     public static void task3() {
-        System.out.println("Задача3");
+        System.out.println("Задача 3");
         short deliveryDistance = 5;
         int deliveryDays = calculatorDays(deliveryDistance);
             if (deliveryDays == 0) {
